@@ -122,3 +122,25 @@ h2 {
         text-align: center;
     }
 }
+
+#cta {
+    background-color: #ff4c68;
+    padding: 7% 4%;
+    text-align: center;
+}
+
+#cta h3 {
+    font-family: "Montserrat-black";
+    font-size: 3rem;
+    color: #fff;
+}
+
+#footer {
+    background-color: #fff;
+    padding: 3% 4%;
+    text-align: center;
+}
+
+#footer .fab {
+    padding: 10px;
+}
